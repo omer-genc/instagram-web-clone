@@ -1,4 +1,4 @@
-# Instagram web clone using boostrap
+# Instagram web clone using bootstrap
 
 [Site link](https://omer-genc.github.io/instagram-web-clone/)
 
