@@ -1,4 +1,4 @@
-# [Patika.dev](https://app.patika.dev) Bootstrap ödevi 2: [Instagram web clone](https://omer-genc.github.io/instagram-web-clone/)
+# Instagram web clone [link](https://omer-genc.github.io/instagram-web-clone/)
 
 Bu ödevde Bootstrap kullanarak bozuk instagram sayfası düzeltilmiştir.
 
